@@ -85,6 +85,8 @@ h1{
 .card{
     max-height: 40em;
     min-height: 40em;
+    margin: 50px;
+    width: 26rem;
 }
 
 a{
